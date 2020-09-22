@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+logo: https://raw.githubusercontent.com/campsite/campsite/master/logo.png
+github:
+  is_project_page: false
